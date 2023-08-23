@@ -1,0 +1,33 @@
+*{
+    background-color: whitesmoke;
+}
+.container{
+    text-align: center;
+}
+h1{
+    color:palevioletred;
+}
+#input_text{
+    width: 80%;
+    height: 30px;
+    border: 2px solid palevioletred;
+    border-radius: 10px;
+    outline:none;
+}
+.btn{
+    height: 35px;
+    width: 100px;
+    margin-left: 10px;
+    background-color: palevioletred;
+    color:white;
+    border: none;
+    border-radius: 10px;
+}
+.btn:hover{
+    cursor: pointer;
+}
+.task_input{
+    font-size: 25px;
+    color:palevioletred;
+    display: flex;
+}
